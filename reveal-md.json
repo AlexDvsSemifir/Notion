@@ -1,0 +1,10 @@
+{
+    "scripts": [
+        "plugin/chalkboard/plugin.js",
+        "plugin/reveal.js-menu/menu.js",
+        "plugin/customcontrols/plugin.js",
+        "plugin/reveal-pdfexport/pdfexport.js",
+        "plugin/reveal.js-plugin-spotlight/spotlight.js",
+        "plugin.js"
+        ]
+  }
