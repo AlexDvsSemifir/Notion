@@ -117,7 +117,7 @@ code {
 
 ## Blocks : transformation
 
-<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el">
+<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el" style="width: 70%">
     <source src="https://videos.ctfassets.net/spoqsaf9291f/2DiOYKAi904jz53tJvfVwx/7699ac37ce85eb2b0fa944428cb4bc6e/Turn_into.mp4" type="video/mp4">
 </video>
 
@@ -125,7 +125,7 @@ code {
 
 ## Blocks : Réorganisation (1/2)
 
-<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el">
+<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el" style="width: 70%">
     <source src="https://videos.ctfassets.net/spoqsaf9291f/2FepULSuPsdqAyxVvaoWi7/5f2720ed77ecbc20513934540066bf32/moving_a_project.mp4" type="video/mp4">
 </video>
 
@@ -134,7 +134,7 @@ code {
 ## Blocks : Réorganisation (2/2)
 
 
-<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el">
+<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el" style="width: 70%">
     <source src="https://videos.ctfassets.net/spoqsaf9291f/7Frnrb6PPUqSvJkCFFo0uP/78264c9a2135ffe6855d843cc6ada0bb/Rearrange.mp4" type="video/mp4">
 </video>
 
@@ -142,7 +142,7 @@ code {
 
 ## Blocks : Pages
 
-<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el">
+<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el" style="width: 70%">
     <source src="https://videos.ctfassets.net/spoqsaf9291f/3WXrgzszWHqiuAt5RJxDzi/2406c0ad917518db102a805a1799d34e/Create_subpage.mp4" type="video/mp4">
 </video>
 
@@ -150,7 +150,7 @@ code {
 
 ## Sous pages : Réorganisation
 
-<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el">
+<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el" style="width: 70%">
     <source src="https://videos.ctfassets.net/spoqsaf9291f/2UK1LnwlcFC2sztqXHgdPZ/88aa6eaadb9638d06ff047619c630b5b/Nesting___unnesting_subpages.mp4" type="video/mp4">
 </video>
 
@@ -172,7 +172,7 @@ code {
 
 ## BDD : un ensemble de pages
 
-<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el">
+<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el" style="width: 70%">
     <source src="https://videos.ctfassets.net/spoqsaf9291f/5wS20G6X8IxVrfa2dhKl5h/bceab1f73baefb2d1605fd76300ef0b1/Open_database_page.mp4">
 </video>
 
@@ -180,7 +180,7 @@ code {
 
 ## Page = BDD
 
-<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el">
+<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el" style="width: 70%">
     <source src="https://videos.ctfassets.net/spoqsaf9291f/3QZJh2b6yNQGIpy2DdqeRN/ba6ce9b0f3972a86cc51c56327be1735/Nest_database.mp4">
 </video>
 
@@ -202,7 +202,7 @@ code {
 
 ## BDD : Vues
 
-<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el">
+<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el" style="width: 70%">
     <source src="https://videos.ctfassets.net/spoqsaf9291f/7fEXn8aF3uQVfMWeBz5y3r/cada58771337e599125dced0c721f119/Add_view.mp4">
 </video>
 
@@ -226,7 +226,7 @@ Les pages sont partagées individuellement !
 
 ## Collabotion
 
-<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el">
+<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el" style="width: 70%">
     <source src="https://videos.ctfassets.net/spoqsaf9291f/7IaLE1eYhyp5y8kMkxgV0c/5942f8f1edcca8c39072553d6095ed0c/Live_avatar.mp4">
 </video>
 
@@ -247,7 +247,7 @@ Les pages sont partagées individuellement !
 
 ## Commentaires
 
-<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el">
+<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el" style="width: 70%" >
     <source src="https://videos.ctfassets.net/spoqsaf9291f/56eQgv5hzINGKYcQcVcQGu/8a93f9e3416145fdd1f643f0fe8e8972/Text_comment.mp4">
 </video>
 
@@ -275,7 +275,7 @@ Les pages sont partagées individuellement !
 
 ## Liens de DB
 
-<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el">
+<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el" style="width: 70%" >
     <source src="https://videos.ctfassets.net/spoqsaf9291f/1L7uro37V3KHVOPUcIKibo/84a2a619df2e0a5bc56ab1cb8880dd36/Relation_step_2.mp4">
 </video>
 
@@ -283,7 +283,7 @@ Les pages sont partagées individuellement !
 
 ## Templates
 
-<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el">
+<video autoplay="" playsinline="" loop="" class="jsx-1124650935 video-el" style="width: 70%" >
     <source src="https://videos.ctfassets.net/spoqsaf9291f/3CwNFFNspShDP39yZLxsnk/77e85ebf5f9c017639ccdafd789ca4d8/Use_DB_template.mp4">
 </video>
 
